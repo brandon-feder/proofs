@@ -1,0 +1,117 @@
+{
+  "main": {
+    "id": "5e7536196439743f",
+    "type": "split",
+    "children": [
+      {
+        "id": "61cc104c535f67d7",
+        "type": "leaf",
+        "dimension": 45.75087310826543,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "proofs/boolean algebra/axioms.md",
+            "mode": "source"
+          }
+        },
+        "group": "f0420418b693a1b5"
+      },
+      {
+        "id": "e0f44b2587f0bc84",
+        "type": "leaf",
+        "dimension": 54.249126891734576,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "proofs/boolean algebra/axioms.md",
+            "mode": "preview"
+          }
+        },
+        "group": "f0420418b693a1b5"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aacd2c2115099bbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "9006417b7b7809f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dabf4c8c0ed82bad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1a31d61f77573a85",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281
+  },
+  "right": {
+    "id": "3b395bd514ecd6ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "ada222aec9d8fe44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7ef37437f39b612",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "proofs/boolean algebra/axioms.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "61cc104c535f67d7",
+  "lastOpenFiles": [
+    "proofs/boolean algebra/axioms.md",
+    "glossary.md",
+    "main.md",
+    "proofs/number theory/primality.md",
+    "problems/problems 1.md",
+    "proofs/number theory/axioms.md",
+    "proofs/boolean algebra/Untitled.md",
+    "proofs/Untitled.md",
+    "proofs/primality.md",
+    "proofs/gcd and lcm.md"
+  ]
+}
